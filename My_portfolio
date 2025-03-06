@@ -1,0 +1,2 @@
+mkdir My_portfolio
+mv index.html styles.css My_portfolio/
